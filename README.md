@@ -1,2 +1,2 @@
-# testing
+# notes
 example repository
